@@ -4,7 +4,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
         <meta charset="iso-8859-1">
         <title>SISFO_PBMT</title>
-        <!--<meta name="generator" content="WYSIWYG Web Builder - http://www.wysiwygwebbuilder.com">-->
+        
         <link href="css/HeaderFooter.css" rel="stylesheet">
         <link href="css/DaftarBMT.css" rel="stylesheet">
         <!-- Insert Google Analytics code here -->
