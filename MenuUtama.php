@@ -3,7 +3,7 @@
 	<head> 
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 			<meta charset="utf-8">
-				<title>SISFO_PBMT</title> 
+				<title>SISFO_PBMT</title>     
 
 				<link href="pages/css/HeaderFooter.css" rel="stylesheet">
 					<link href="pages/css/MenuUtama.css" rel="stylesheet">
