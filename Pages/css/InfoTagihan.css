@@ -1,0 +1,240 @@
+div#container
+{
+   width: 1366px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #E4E3DC;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 11px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#FooterLayer
+{
+   background-color: transparent;
+   background-image: url(images/InfoTagihan_FooterLayer_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+}
+#HeaderLayer
+{
+   background-color: transparent;
+   background-image: url(images/InfoTagihan_HeaderLayer_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+}
+#Label1
+{
+   border: 0px #CCCCCC solid;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 27px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+   vertical-align: middle;
+}
+#wb_Form1
+{
+   background-color: #BCBCBC;
+   background-image: url(images/InfoTagihan_Form1_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+   border: 5px #CCCCCC outset;
+   -moz-border-radius: 2px;
+   -webkit-border-radius: 2px;
+   border-radius: 2px;
+}
+#Label2
+{
+   border: 0px #CCCCCC solid;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 21px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+   vertical-align: middle;
+}
+#wb_CssMenu1
+{
+   border: 0px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   margin: 0px 0px 9px 0px;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 0px 0px 0px;
+   width: 20%;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #333333;
+   border: 5px #CCCCCC solid;
+   background-color: #87CEFA;
+   background-image: none;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 17px;
+   font-style: normal;
+   text-decoration: none;
+   width: 92.29%;
+   height: 30px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   line-height: 30px;
+   text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover
+{
+   color: #FFFFFF;
+   background-color: #FF8C00;
+   background-image: none;
+   border: 5px #2E6DA4 solid;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 li:hover, #wb_CssMenu1 li a:hover
+{
+   position: relative;
+}
+#wb_CssMenu1 a.withsubmenu
+{
+   padding: 0 5px 0 5px;
+   width: 92.29%;
+   background-image: none;
+}
+#wb_CssMenu1 li:hover a.withsubmenu, #wb_CssMenu1 a.withsubmenu:hover
+{
+   background-image: none;
+}
+#wb_CssMenu1 ul ul
+{
+   position: absolute;
+   left: 0;
+   top: 0;
+   visibility: hidden;
+   width: 272px;
+   height: auto;
+   border: none;
+   background-color: #00BFFF;
+}
+#wb_CssMenu1 ul :hover ul
+{
+   left: 0px;
+   top: 40px;
+   padding-top: 0px;
+   visibility: visible;
+}
+#wb_CssMenu1 .firstmain:hover ul
+{
+   left: 0px;
+}
+#wb_CssMenu1 li li
+{
+   width: 272px;
+   padding: 0 0px 0px 0px;
+   border: 0px #C0C0C0 solid;
+   border-width: 0 0px;
+}
+#wb_CssMenu1 li li.firstitem
+{
+   border-top: 0px #C0C0C0 solid;
+}
+#wb_CssMenu1 li li.lastitem
+{
+   border-bottom: 0px #C0C0C0 solid;
+}
+#wb_CssMenu1 ul ul a, #wb_CssMenu1 ul :hover ul a
+{
+   float: none;
+   margin: 0;
+   width: 258px;
+   height: auto;
+   white-space: normal;
+   padding: 7px 6px 6px 6px;
+   background-color: #87CEFA;
+   background-image: none;
+   border: 1px #CCCCCC solid;
+   color: #333333;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 15px;
+   font-style: normal;
+   line-height: 15px;
+   text-align: center;
+   text-decoration: none;
+}
+#wb_CssMenu1 ul :hover ul .firstitem a
+{
+   margin-top: 0px;
+}
+#wb_CssMenu1 ul ul :hover a, #wb_CssMenu1 ul ul a:hover, #wb_CssMenu1 ul ul :hover ul :hover a, #wb_CssMenu1 ul ul :hover ul a:hover
+{
+   background-color: #FF8C00;
+   background-image: none;
+   border: 1px #2E6DA4 solid;
+   color: #FFFFFF;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#Button1
+{
+   border: 5px #000000 double;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   background-color: #00BFFF;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 11px;
+}
