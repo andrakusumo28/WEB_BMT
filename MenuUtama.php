@@ -81,7 +81,7 @@
                                 <a href="#" target="_self">Data Iuran</a>
                             </li>
                             <li>
-                                <a href="#" target="_self">Data User</a>
+                                <a href="pages/DataUser.php"_self">Data User</a>
                             </li>
                             <li class="lastitem">
                                 <a href="#" target="_self">Log_Out</a>
